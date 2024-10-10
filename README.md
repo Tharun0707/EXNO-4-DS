@@ -192,4 +192,4 @@ print(f"P-Value: {p}")
 
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus, feature selection and feature scaling has been used on the given dataset.
